@@ -12,7 +12,7 @@ Key Features and Capabilities
  - Simple User interface
  - Support  standard and custom objects
  - Filter and sort query results within ALV grid
- - Export query results
+ - Export query results to several standard data formats (CSV,EXCEL).
 
 ![](/img/main-app.png)
 
